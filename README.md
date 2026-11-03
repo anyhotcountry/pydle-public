@@ -1,5 +1,16 @@
 # Pydle Changelog
 
+## 1.5.0 (2026-11-01)
+* Added a leaderboard with top 25 players based on character count for the daily puzzle. Custom games show top 50.
+* Added custom games
+* Added option to share creations with developer
+* Added user profiles - avatar and username
+* Show SVG of puzzle in Archive Dialog
+* Added query search parameter to set game id
+* Change Help to be FAQ
+* Changed storage for games to use IndexedDB instead of Local Storage
+* Switched to Lucide Icons (from Heroicons)
+
 ## 1.4.4 (2026-09-18)
 * Removed changelog in How to play dialog
 * Fixed issue #23 Puzzle doesn't open from Archive while in Create mode
