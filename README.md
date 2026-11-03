@@ -7,7 +7,7 @@
 * Added user profiles - avatar and username
 * Show SVG of puzzle in Archive Dialog
 * Added query search parameter to set game id
-* Change Help to be FAQ
+* Changed Help to be FAQ
 * Changed storage for games to use IndexedDB instead of Local Storage
 * Switched to Lucide Icons (from Heroicons)
 
