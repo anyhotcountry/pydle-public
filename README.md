@@ -1,5 +1,9 @@
 # Pydle Changelog
 
+## 1.5.1 (2026-11-04)
+
+* Click on a cell to copy the characters in that cell to the clipboard
+
 ## 1.5.0 (2026-11-01)
 * Added a leaderboard with top 25 players based on character count for the daily puzzle. Custom games show top 50.
 * Added custom games
