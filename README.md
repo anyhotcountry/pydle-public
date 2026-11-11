@@ -1,5 +1,13 @@
 # Pydle Changelog
 
+## 1.5.3 (2026-11-11)
+
+* Added leaderboard forward and back through solutions
+
+## 1.5.2 (2026-11-05)
+
+* Added animated gif to How to play dialog
+
 ## 1.5.1 (2026-11-04)
 
 * Click on a cell to copy the characters in that cell to the clipboard
