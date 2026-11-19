@@ -1,5 +1,12 @@
 # Pydle Changelog
 
+## 1.5.4 (2026-11-19)
+
+* Fixed [countCharacters parsing of strings can be broken with backslash
+ #28](https://github.com/anyhotcountry/pydle-public/issues/28)
+* Changed character counting logic. The number of bytes in a string is counted, which means that emojis count as multiple characters depending on their byte size
+* QoL improvement. You can now set the default code for a new puzzle. Go to Create and share button to find the option to save default code. 
+
 ## 1.5.3 (2026-11-11)
 
 * Added leaderboard forward and back through solutions
