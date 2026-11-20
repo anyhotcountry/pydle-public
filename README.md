@@ -1,5 +1,9 @@
 # Pydle Changelog
 
+## 1.5.5 (2026-11-20)
+
+* Added new colours maroon, navy, teal, zinc, gray, lime and pink.
+
 ## 1.5.4 (2026-11-19)
 
 * Fixed [countCharacters parsing of strings can be broken with backslash
